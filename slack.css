@@ -20,7 +20,7 @@
 
 
     }
-    #slackDisplayImage{
+    img{
         height: 100px;
         width: 100px;
         border-radius: 50px;
@@ -33,7 +33,7 @@
         flex-direction: column;
     
     }
-    #slackUserName, #myTrack{
+    input[type="text"]{
     width: 100%;
     outline: none;
     padding: 6px;
